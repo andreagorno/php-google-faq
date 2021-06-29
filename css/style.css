@@ -1,0 +1,20 @@
+body {
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: #3C4043;
+}
+
+p,
+ul,
+ol {
+    font-size: 14px;
+    color: #213645;
+    word-spacing: 3px;
+    line-height: 25px;
+}
+
+
+
